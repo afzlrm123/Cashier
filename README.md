@@ -1,0 +1,2 @@
+# Cashier
+Program kasir sederhana
